@@ -192,7 +192,7 @@ header("HTTP/1.1 400 Bad Request");
 - Validación básica de datos
 
 ## Cómo ejecutar el proyecto
-1. Clonar el repositorio: git clone https://github.com/MR-Dev-Soft/agencia.git
+1. Clonar el repositorio: git clone https://github.com/MReyes-Soft/agencia.git
 2. Copiar el proyecto en el servidor local (XAMPP / WAMP)
 3. Configurar credenciales en `config.php`
 4. Importar la base de datos MySQL
@@ -207,4 +207,4 @@ API funcional utilizada como backend para aplicación móvil.
 ## Autor
 Miguel Reyes Sanchez
 Ingeniero de Software con Inteligencia Artificial
-GitHub: https://github.com/MR-Dev-Soft
+GitHub: https://github.com/MReyes-Soft
